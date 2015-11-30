@@ -1,0 +1,3 @@
+email,pass,email_validation,pass_validation
+valid@email.com,pas,,Ваш пароль должен состоять как минимум из 6 символов.
+invalid,password123,Введите действительный адрес электронной почты,
